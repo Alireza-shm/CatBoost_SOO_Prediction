@@ -6,8 +6,8 @@
  *  Copyright (C) 2024  Alireza Shamshiri, Kyeong Rok Ryu, Steven McCullough, and June Young Park
 
 ## Data Collection and Integration 
-- This project involves the analysis of integrated data from various sources spanning the years 2018 to 2020 across the State of Florida. The analyzed data included the following attributes:
-- (Integration of geospatial data was conducted using ArcGIS)
+This project involves the analysis of integrated data from various sources spanning the years 2018 to 2020 across the State of Florida. The analyzed data included the following attributes:
+(Integration of geospatial data was conducted using ArcGIS)
 
  * Project-specific Factors
  * Transportation Data
