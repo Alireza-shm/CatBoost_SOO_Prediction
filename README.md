@@ -24,14 +24,14 @@ This project involves the analysis of integrated data from various sources spann
 |-------------------|----|-----------|--------|-------------------|------------------|---------|
 |`Improved CatBoost`|94% |91%|98%|90%|89%|84%|
 
-## Analysis
+## Analysis and Results
 
 This project utilized `SHAP` values and plots to better intrepret the results of the `improved catboost` classifier.
 <p align="center">
 		<img align="center" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Analysis.png" "height="700" width="1000" />
 </p>
 
-## Spatial Mapping and Results Using Arc Geographic Information System (GIS)
+# Spatial Mapping and Results Using Arc Geographic Information System (GIS)
 The prediction results are plotted on the map of Florida by extracting `SHAP` values and importing into the Online ArcGIS.
 
 <p align="center">
