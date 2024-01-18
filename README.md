@@ -19,11 +19,8 @@ This project involves the analysis of integrated data from various sources spann
 		<img align="left" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Data.png" "height="200" width="200" />
 </p>
 
-`XGBoost`
-`CatBoost`
-`LightGBM`
-`Random Forest`
-`Logistic Regression`
+## Model Development and Selection
+This project utilized several classifiers including `XGBoost``CatBoost``LightGBM``Random Forest``Logistic Regression`
 
 |       Metric      | F1 | Precision | Recall | Training Accuracy | Testing Accuracy | ROC AUC |
 |-------------------|----|-----------|--------|-------------------|------------------|---------|
