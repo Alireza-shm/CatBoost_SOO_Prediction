@@ -16,7 +16,7 @@ This project involves the analysis of integrated data from various sources spann
  * Weather Data
 
 <p align="center">
-		<img align="center" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Data.png" "height="500" width="500" />
+		<img align="left" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Data.png" "height="200" width="200" />
 </p>
 
 `XGBoost`
