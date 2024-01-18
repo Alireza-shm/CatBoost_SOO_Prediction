@@ -28,5 +28,5 @@ This project involves the analysis of integrated data from various sources spann
 
 This project utilized `SHAP` values and plots to better intrepret the results of the `improved catboost` classifier.
 <p align="center">
-		<img align="center" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Analysis.png" "height="500" width="500" />
+		<img align="center" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Analysis.png" "height="700" width="1000" />
 </p>
