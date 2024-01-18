@@ -30,3 +30,10 @@ This project utilized `SHAP` values and plots to better intrepret the results of
 <p align="center">
 		<img align="center" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Analysis.png" "height="700" width="1000" />
 </p>
+
+## Spatial Mapping and Results Using Arc Geographic Information System (GIS)
+The prediction results are plotted on the map of Florida by extracting `SHAP` values and importing into the Online ArcGIS which is accessible :
+
+<p align="center">
+		<img align="center" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Result.png" "height="100" width="100" />
+</p>
