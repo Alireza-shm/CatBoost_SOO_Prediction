@@ -8,7 +8,7 @@
 ## Data Collection and Integration 
 This project involves the analysis of integrated data from various sources spanning the years 2018 to 2020 across the State of Florida. The analyzed data included the following attributes:
 (Integration of geospatial data was conducted using ArcGIS)
-
+(288 projects - 70 features)
 
  * Project-specific Factors
  * Transportation Data
@@ -16,18 +16,10 @@ This project involves the analysis of integrated data from various sources spann
  * macroeconomic Factors
  * Weather Data
 
-
-<p align="center">
-		<img align="left" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Data.png" "height="200" width="200" />
-</p>
-
-
-
-
-
-
 ## Model Development and Selection
-This project utilized several classifiers including `XGBoost`, `CatBoost`, `LightGBM`, `Random Forest`, `Logistic Regression`
+ * This project utilized several classifiers including `XGBoost` `CatBoost` `LightGBM` `Random Forest` and `Logistic Regression`
+ * This project improved a `CatBoost` using top ten features with the following `perf`
+
 
 |       Metric      | F1 | Precision | Recall | Training Accuracy | Testing Accuracy | ROC AUC |
 |-------------------|----|-----------|--------|-------------------|------------------|---------|
