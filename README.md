@@ -35,5 +35,5 @@ This project utilized `SHAP` values and plots to better intrepret the results of
 The prediction results are plotted on the map of Florida by extracting `SHAP` values and importing into the Online ArcGIS which is accessible :
 
 <p align="center">
-		<img align="leftr" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Result.png" "height="200" width="200" />
+		<img align="left" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Result.png" "height="300" width="300" />
 </p>
