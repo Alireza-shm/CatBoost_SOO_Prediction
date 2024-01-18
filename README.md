@@ -15,6 +15,9 @@ This project involves the analysis of integrated data from various sources spann
  * macroeconomic Factors
  * Weather Data
 
+<p align="center">
+		<img align="center" src="https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" "height="500" width="500" />
+</p>
 
 `XGBoost`
 `CatBoost`
