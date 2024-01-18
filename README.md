@@ -20,7 +20,7 @@ This project involves the analysis of integrated data from various sources spann
 </p>
 
 ## Model Development and Selection
-This project utilized several classifiers including `XGBoost``CatBoost``LightGBM``Random Forest``Logistic Regression`
+This project utilized several classifiers including `XGBoost`, `CatBoost`, `LightGBM`, `Random Forest`, `Logistic Regression`
 
 |       Metric      | F1 | Precision | Recall | Training Accuracy | Testing Accuracy | ROC AUC |
 |-------------------|----|-----------|--------|-------------------|------------------|---------|
