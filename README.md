@@ -18,7 +18,7 @@ This project involves the analysis of integrated data from various sources spann
 
 ## Model Development and Selection
  * This project utilized several classifiers including `XGBoost` `CatBoost` `LightGBM` `Random Forest` and `Logistic Regression`
- * This project improved a `CatBoost` using top ten features with the following `performance`
+ * This project improved a `CatBoost` using top ten features with the following performance:
 
 |       Metric      | F1 | Precision | Recall | Training Accuracy | Testing Accuracy | ROC AUC |
 |-------------------|----|-----------|--------|-------------------|------------------|---------|
