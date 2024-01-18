@@ -18,9 +18,15 @@ This project involves the analysis of integrated data from various sources spann
 
 ## Model Development and Selection
  * This project utilized several classifiers including `XGBoost` `CatBoost` `LightGBM` `Random Forest` and `Logistic Regression`
- * This project improved a `CatBoost` using top ten features with the following `perf`
-
+ * This project improved a `CatBoost` using top ten features with the following `performance`
 
 |       Metric      | F1 | Precision | Recall | Training Accuracy | Testing Accuracy | ROC AUC |
 |-------------------|----|-----------|--------|-------------------|------------------|---------|
 |`Improved CatBoost`|94% |91%|98%|90%|89%|84%|
+
+## Analysis
+
+This project utilized `SHAP` values and plots to better intrepret the results of the `improved catboost` classifier.
+<p align="center">
+		<img align="center" src="https://github.com/Alireza-shm/CatBoost_SOO_Prediction/blob/main/Images/Analysis.png" "height="500" width="500" />
+</p>
