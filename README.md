@@ -3,7 +3,7 @@
 
  *  Copyright (C) 2024  The University of Texas at Arlington
  *  Copyright (C) 2024  HBE: The Humanized Built Environment, (https://hubilab.uta.edu/)
- *  Copyright (C) 2024  Alireza Shamshiri, Kyeong Rok Ryu, Steven McCullough, and June Young Park
+ *  Copyright (C) 2024  Alireza Shamshiri, Kyeong Rok Ryu, and June Young Park
 
 ## Data Collection and Integration 
 This project involves the analysis of integrated data from various sources spanning the years 2018 to 2020 across the State of Florida. The analyzed data included the following attributes:
